@@ -6,10 +6,6 @@ import { useTheme } from '@mui/material/styles';
 import { Helmet } from 'react-helmet-async';
 
 import DashboardHeader from '../components/DashboardHeader';
-import Categories from '../components/statistics/Categories';
-import Exchanges from '../components/statistics/Exchanges';
-import AssetPlatforms from '../components/statistics/AssetPlatforms';
-import MarketIndexes from '../components/statistics/MarketIndexes';
 import CoinMarkets from '../components/tables/CoinMarkets';
 import Spacer from '../components/Spacer';
 
